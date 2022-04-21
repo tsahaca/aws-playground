@@ -1,6 +1,6 @@
 # Anatomy of a CloudFormation Template
 
-```
+```yaml
 AWSTemplateFormatVersion: 2010-09-09 # The only allowable value is 2010-09-09
 Description: # Describes the template
 Metadata: # Objects providing additional information about the template
