@@ -1,4 +1,7 @@
 ## EC2 Instance Profile and Role
+
+![The San Juan Mountains are beautiful!](/images/aws_iam_role.png "San Juan Mountains")
+
 Two parts of IAM 
 - Who am I?
 - What am I permitted to do?
