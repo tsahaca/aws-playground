@@ -1,4 +1,4 @@
-# Anatomy of CloudFormation
+# Anatomy of a CloudFormation Template
 
 ```
 AWSTemplateFormatVersion: 2010-09-09 # The only allowable value is 2010-09-09
