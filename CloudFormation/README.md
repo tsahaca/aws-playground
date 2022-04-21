@@ -12,6 +12,7 @@ Transform: # Customizations for serverless applications
 Resources: # Defines resources and their properties, the only required top-level object
 Outputs: # Values that are returned whenever you view information about the resources created from this template
 ```
+[Introduction to CloudFormation](https://jennapederson.com/blog/2021/5/10/introduction-to-aws-cloudformation/)
 
 Here is a simple flow chart:
 
