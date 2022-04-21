@@ -1,6 +1,6 @@
 ## EC2 Instance Profile and Role
 
-![The San Juan Mountains are beautiful!](/images/aws_iam_role.png "San Juan Mountains")
+![GitHub Logo](/images/aws_iam_role.png)
 
 Two parts of IAM 
 - Who am I?
