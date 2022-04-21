@@ -1,6 +1,6 @@
 ## EC2 Instance Profile and Role
 
-                                                            ![GitHub Logo](images/aws_iam_role.png)
+![GitHub Logo](images/aws_iam_role.png)
 
 Two parts of IAM 
 - Who am I?
