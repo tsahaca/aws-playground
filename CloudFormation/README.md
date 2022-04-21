@@ -1,6 +1,7 @@
 # Anatomy of a CloudFormation Template
 
 <div style="background-color: rgb(50, 50, 50);">
+  
 ``yaml
 AWSTemplateFormatVersion: 2010-09-09 # The only allowable value is 2010-09-09
 Description: # Describes the template
@@ -13,4 +14,5 @@ Transform: # Customizations for serverless applications
 Resources: # Defines resources and their properties, the only required top-level object
 Outputs: # Values that are returned whenever you view information about the resources created from this template
 ``
+  
 </div>
