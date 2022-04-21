@@ -17,4 +17,4 @@ However, if you are using the AWS CLI, SDKs, or CloudFormation, you will need to
 - An IAM role with policies and permissions, and
 - An EC2 instance profile specifying which roles it can assume
 
-![GitHub Logo](images/ec2_instance_profile_role.png)
+![GitHub Logo](images/ec2-instance-profile-role.png)
