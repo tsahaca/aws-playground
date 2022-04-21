@@ -16,3 +16,5 @@ So the EC2 instance runs under the EC2 instance profile, defining “who” the 
 However, if you are using the AWS CLI, SDKs, or CloudFormation, you will need to explicitly define both:
 - An IAM role with policies and permissions, and
 - An EC2 instance profile specifying which roles it can assume
+
+![GitHub Logo](images/ec2_instance_profile_role.png)
