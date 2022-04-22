@@ -13,7 +13,7 @@ So the EC2 instance runs under the EC2 instance profile, defining “who” the 
 
 **When you create an IAM Role for EC2 using the AWS Management Console, it creates both an EC2 instance profile as well as an IAM role.**
 
-However, if you are using the AWS CLI, SDKs, or CloudFormation, you will need to explicitly define both:
+**However, if you are using the AWS CLI, SDKs, or CloudFormation, you will need to explicitly define both:**
 - An IAM role with policies and permissions, and
 - An EC2 instance profile specifying which roles it can assume
 
