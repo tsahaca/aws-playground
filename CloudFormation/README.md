@@ -13,7 +13,9 @@ Resources: # Defines resources and their properties, the only required top-level
 Outputs: # Values that are returned whenever you view information about the resources created from this template
 ```
 [Introduction to CloudFormation](https://jennapederson.com/blog/2021/5/10/introduction-to-aws-cloudformation/)
+
 [PROVISIONING AN EC2 INSTANCE WITH CLOUDFORMATION](https://jennapederson.com/blog/2021/6/21/provisioning-an-ec2-instance-with-cloudformation-part-1/)
+
 Here is a simple flow chart:
 
 ```mermaid
