@@ -16,6 +16,10 @@ Outputs: # Values that are returned whenever you view information about the reso
 
 - [PROVISIONING AN EC2 INSTANCE WITH CLOUDFORMATION](https://jennapederson.com/blog/2021/6/21/provisioning-an-ec2-instance-with-cloudformation-part-1/)
 
+[Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+
+[About mermaid](http://mermaid-js.github.io/mermaid/#/)
+
 Here is a simple flow chart:
 
 ```mermaid
