@@ -1,4 +1,5 @@
 # Compare high availability vs. fault tolerance in AWS
+[Click here](https://www.techtarget.com/searchcloudcomputing/tip/Compare-high-availability-vs-fault-tolerance-in-AWS)
 
 To achieve high availability and fault tolerance in AWS, IT admins must first understand the differences between the two models.
 
