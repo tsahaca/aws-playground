@@ -1,1 +1,2 @@
 - [How to implement a read-only service control policy (SCP) for accounts in AWS Organizations](https://aws.amazon.com/blogs/mt/implement-read-only-service-control-policy-in-aws-organizations/)
+- [Infosys implements AWS Control Tower to enforce multi-account governance](https://aws.amazon.com/blogs/mt/infosys-implements-aws-control-tower-to-enforce-multi-account-governance/)
