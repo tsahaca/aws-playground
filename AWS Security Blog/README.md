@@ -1,0 +1,1 @@
+- [Use new account assignment APIs for AWS SSO to automate multi-account access](https://aws.amazon.com/blogs/security/use-new-account-assignment-apis-for-aws-sso-to-automate-multi-account-access/)
